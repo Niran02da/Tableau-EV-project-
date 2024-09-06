@@ -179,7 +179,7 @@ The table columns display the model, make, EV type (BEV or PHEV), total vehicle 
 ![Screenshot_20240906_125016](https://github.com/user-attachments/assets/85421f0e-f026-4bb5-992f-ae491eb7ca54)
 
  
-# Report Snapshot (Power BI DESKTOP)
+# Report Snapshot (Tableau DESKTOP)
 
  
 ![Screenshot_20240905_070604](https://github.com/user-attachments/assets/276b4d52-72ae-4823-b438-e336c0cf22e7)
